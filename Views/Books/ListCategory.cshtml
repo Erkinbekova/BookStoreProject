@@ -1,0 +1,15 @@
+@model IEnumerable<Books>
+
+@{
+    var pageName = ViewBag.CurrentCategory;
+    ViewData["Title"] = pageName;
+}
+
+<h2>@pageName</h2>
+<hr />
+
+@foreach (var book in Model)
+{
+    @Html.Partial("BookSummary", book)
+}
+<br />

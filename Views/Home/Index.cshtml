@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Books>
+
+@{
+    var pageName = "Home Page";
+    ViewData["Title"] = pageName;
+}
+
+<div align="center">
+    <h1>Welcome to my BookShop!</h1>
+    <h2>Here's our best selection of books.</h2>
+</div>
+
+
+@await Component.InvokeAsync("CarouselMenu")
+

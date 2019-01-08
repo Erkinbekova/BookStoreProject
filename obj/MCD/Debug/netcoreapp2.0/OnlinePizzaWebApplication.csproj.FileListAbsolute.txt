@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.deps.json
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.runtimeconfig.json
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.runtimeconfig.dev.json
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.dll
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\bin\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.pdb
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.AssemblyInfo.cs
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.dll
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.pdb
+C:\Users\User\Desktop\OnlinePizzaWebShop-master\OnlinePizzaWebApplication\OnlinePizzaWebApplication\obj\MCD\Debug\netcoreapp2.0\OnlinePizzaWebApplication.csprojAssemblyReference.cache

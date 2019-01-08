@@ -1,0 +1,12 @@
+
+@{
+    var ModelName = "Admin Page";
+    ViewData["Title"] = ModelName;
+}
+
+<h2>@ModelName</h2>
+
+<h3><a asp-controller="Books" asp-action="Index">Books</a></h3>
+<h3><a asp-controller="Categories" asp-action="Index">Categories</a></h3>
+<h3><a asp-controller="Orders" asp-action="Index">Orders</a></h3>
+

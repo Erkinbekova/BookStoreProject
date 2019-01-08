@@ -1,0 +1,16 @@
+@model IEnumerable<Books>
+
+@{
+    var ModelName = "Search Books";
+    ViewData["Title"] = ModelName;
+}
+
+<h2>@ModelName</h2>
+<hr />
+
+@foreach (var book in Model)
+{
+    @Html.Partial("BookSummary", book)
+}
+<br />
+    

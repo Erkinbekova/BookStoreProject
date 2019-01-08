@@ -1,0 +1,8 @@
+@model List<Books>
+
+<h4>Search Results</h4>
+
+@foreach (var book in Model)
+{
+    @Html.Partial("BookSummary", book)
+}

@@ -1,0 +1,40 @@
+@model Books
+
+@{
+    var ModelName = "Book Details";
+    ViewData["Title"] = ModelName;
+}
+
+<h2>@ModelName</h2>
+<hr />
+
+<p>
+    <a asp-action="ListAll">Back to List</a>
+</p>
+
+<div class="thumbnail">
+    <img alt="@Model.Name" src="@Model.ImageUrl" height="250" width="250" class="img-responsive" style="display: block">
+    <div class="caption-full">
+        <h2 class="pull-right">@Model.Price.ToString("c")</h2>
+        <h2>
+            <a href="">@Model.Name</a>
+        </h2>
+        <div>
+        <h4>Category: <b> @Model.Category.Name </b></h4>
+        <p>@Model.Description</p>
+       
+        
+        <p>
+            <h4>
+                <a asp-controller="Reviews" asp-action="BookReviews" asp-route-bookId="@Model.Id">Reviews</a>
+            </h4>
+        </p>
+        </div>
+
+        <br />
+        <p class="button">
+            <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
+                asp-route-bookId="@Model.Id">Add Book</a>
+        </p>
+    </div>
+</div>
